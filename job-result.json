@@ -1,0 +1,27 @@
+{
+  "archive": "gigapan_76564.tar.gz",
+  "exit_code": 0,
+  "id": 76564,
+  "name": "岩手県:大槌町:赤浜:観光船はまゆり(5/1)",
+  "status": "complete",
+  "started_at": "2026-10-22T21:56:26.478054+00:00",
+  "finished_at": "2026-10-22T22:00:15.101585+00:00",
+  "geometry": {
+    "width": 39488,
+    "height": 14732,
+    "levels": 9,
+    "tile_size": 256
+  },
+  "expected_tiles": 12053,
+  "verified_tiles": 12053,
+  "missing_tiles": 0,
+  "tile_bytes": 191550480,
+  "downloaded_bytes": 191544165,
+  "last_error": "",
+  "warnings": [
+    "公開 JSON に壊れた UTF-8 が含まれています。原本と文字置換した正規化版を保存しました。"
+  ],
+  "snapshot_count": 12,
+  "salvager_version": "0.9.0",
+  "pages_url": "https://mapconcierge.github.io/gigapan_76564/"
+}

@@ -1,0 +1,111 @@
+{
+  "gigapan": {
+    "is_game": false,
+    "snapshottable": true,
+    "related_gigapans": [
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/135027/images/135027-150x100-3814-12137-0-5549.jpg",
+        "name": "Massif du Mont Blanc",
+        "id": 135027
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/135956/images/135956-150x100-5588-42235-0-24431.jpg",
+        "name": "Final Women's 400m Freestyle |  Mundial de Natación Barcelona 2013",
+        "id": 135956
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/111853/images/111853-150x100-12151-22489-0-6892.jpg",
+        "name": "MT BOGONG VICTORIA B",
+        "id": 111853
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/123733/images/123733-150x100-45624-66924-0-14200.jpg",
+        "name": "Alabama Hils and the Sierra Nevada Range",
+        "id": 123733
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/136344/images/136344-150x100-6664-57335-0-33781.jpg",
+        "name": "Stadhuis Hilversum",
+        "id": 136344
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/136084/images/136084-150x100-10977-39023-0-18697.jpg",
+        "name": "MSL Curiosity @Shaler ~ Sol 313-316",
+        "id": 136084
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/51932/images/51932-150x100-36589-62455-0-17244.jpg",
+        "name": "Long Valley",
+        "id": 51932
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/97338/images/97338-150x100-8317-17587-0-6180.jpg",
+        "name": "Huntington Beach, CA 1/12/2012",
+        "id": 97338
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/111532/images/111532-150x100-2229-10836-0-5738.jpg",
+        "name": "Salisbury",
+        "id": 111532
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/96331/images/96331-150x100-7624-14262-0-4425.jpg",
+        "name": "Panamint Valley and Panamint Range - 360 Panorama",
+        "id": 96331
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/122606/images/122606-150x100-10574-61572-0-33999.jpg",
+        "name": "The city center of Warsaw - Palace of Culture and Science 2012 / Centrum Warszawy- Pałac Kultury i Nauki 2012",
+        "id": 122606
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/31961/images/31961-150x100-16273-35254-0-12654.jpg",
+        "name": "Roadcut near Packwood, Washington",
+        "id": 31961
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/96841/images/96841-150x100-1510-10572-0-6041.jpg",
+        "name": "Mesquite Sand Dunes - 360 VR Panorama",
+        "id": 96841
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/120632/images/120632-150x100-35135-72760-0-25083.jpg",
+        "name": "Haleakala 1",
+        "id": 120632
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/136571/images/136571-150x100-2015-14103-0-8059.jpg",
+        "name": "Tadoussac Ferry,  Saguenay Fjord, Quebec",
+        "id": 136571
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/51471/images/51471-150x100-19132-48868-0-19824.jpg",
+        "name": "Pescadero Marsh",
+        "id": 51471
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/122709/images/122709-150x100-2459-18233-0-10516.jpg",
+        "name": "ART ON THE YARRA MELBOURNE ",
+        "id": 122709
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/32927/images/32927-150x100-3854-21814-0-11973.jpg",
+        "name": "Kansas Rainbow",
+        "id": 32927
+      },
+      {
+        "thumbnail_url": "//static.gigapan.com/gigapans0/104013/images/104013-150x100-90965-114875-0-15940.jpg",
+        "name": "Trona Pinnacles 360",
+        "id": 104013
+      }
+    ],
+    "is_private": false,
+    "allow_others_to_print": true,
+    "id": 76564,
+    "user_id": 14936,
+    "height": 14732,
+    "levels": 9,
+    "tile_server_path": "http://tile76.gigapan.org/gigapans0/76564/tiles/",
+    "width": 39488
+  }
+}
